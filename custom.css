@@ -1,0 +1,69 @@
+/*Custom styles*/
+
+body {
+    font-family: 'Impact', 'Arial', sans-serif;
+    text-transform: uppercase;
+    position: relative;
+}
+
+
+body hr {
+    height: 5px;
+    border-width : 5px 0 0;
+    border-color: black;
+
+}
+
+.header {
+    background-color: #000;
+    color: #fff;
+}
+
+.header h1 {
+    color: #fff;
+    font-size: 14px;
+    margin:20px;
+}
+
+.centered {
+    text-align: center;
+}
+
+.cart div {
+    border: solid black 1px;
+}
+
+.cart  {
+    margin-top: 30px;
+}
+.sticky {
+    position: fixed;
+    top:0;
+    width:100%;
+    background-color: #fff;
+    z-index: 1;
+}
+
+.email {
+    margin-bottom: 60px;
+}
+
+.main {
+    margin-bottom: 100px;
+}
+
+.main h2 {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+/*.payment {
+    margin-top: 90px;
+    background-color: pink;
+}
+*/
+
+.shipping {
+    margin-bottom: 50px;
+}
+
